@@ -1,0 +1,32 @@
+Transactions: 100			
+min_support_count = 30			
+Large#1	25	 Candidate#2	300
+Large#2	131	 Candidate#3	369
+Large#3	322	 Candidate#4	497
+Large#4	469	 Candidate#5	417
+Large#5	404	 Candidate#6	193
+Large#6	192	 Candidate#7	45
+Large#7	45	 Candidate#8	3
+Large#8	3	 Candidate#9	0
+(all)	1591		
+
+--------------------------------------			
+min_support_count = 40			
+Large#1	14	 Candidate#2	91
+Large#2	55	 Candidate#3	122
+Large#3	111	 Candidate#4	133
+Large#4	124	 Candidate#5	76
+Large#5	76	 Candidate#6	25
+Large#6	25	 Candidate#7	4
+Large#7	4	 Candidate#8	0
+(all)	409		
+	
+--------------------------------------			
+min_support_count = 50			
+Large#1	10	 Candidate#2	45
+Large#2	34	 Candidate#3	63
+Large#3	58	 Candidate#4	54
+Large#4	47	 Candidate#5	16
+Large#5	15	 Candidate#6	1
+Large#6	1	 Candidate#7	0
+(all)	165		

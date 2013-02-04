@@ -1,0 +1,6 @@
+A C D !EOD
+B C E !EOD
+A B C E !EOD
+B E !EOD
+A C E !EOD
+A B C D !EOD
